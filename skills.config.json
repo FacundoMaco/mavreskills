@@ -1,8 +1,22 @@
 {
   "skills": {
-    "mavre-example-skill": {
+    "mavre-tool-guard": {
       "enabled": true,
       "source": "scout",
+      "fuente_scout": "producthunt",
+      "patron_origen": "Harden / Agent Integrity Foundation",
+      "launched": "2026-09-12",
+      "traction": {
+        "stars": 0,
+        "mentions": 0,
+        "installs": 0
+      }
+    },
+    "mavre-mcp-lazy-cli": {
+      "enabled": true,
+      "source": "scout",
+      "fuente_scout": "reddit",
+      "patron_origen": "mcp2cli",
       "launched": "2026-09-12",
       "traction": {
         "stars": 0,
