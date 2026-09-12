@@ -17,4 +17,4 @@ Sin build. Es una colección de `SKILL.md` + `skills.config.json` como índice/t
 
 ## Dependencias externas
 - Scout (bot Grok, corre en la plataforma Grok, no en este repo) — genera el `prompt2action.json` que dispara cada nueva skill.
-- Promoción automática a X/Reddit/foros: pendiente de implementar (fase 2).
+- Promoción automática: GitHub Action (`.github/workflows/promote-skill.yml`) postea a X y Reddit cuando se agrega un `SKILL.md` nuevo a `main`. Usa la cuenta personal de Facundo — credenciales en GitHub Secrets del repo (`X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET`, `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET`, `REDDIT_USERNAME`, `REDDIT_PASSWORD`, `REDDIT_SUBREDDIT`). Sin esas secrets configuradas, el job corre pero no postea (se salta con log).
