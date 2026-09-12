@@ -24,14 +24,13 @@ Colección de skills para Claude Code, curadas y mantenidas por [MavreWorks](htt
 ## Instalar una skill
 
 ```bash
-cp -r skills/<nombre> ~/.claude/skills/<nombre>
+npx skills add FacundoMaco/mavreskills --skill mavre-tool-guard
 ```
 
-O todas de una:
+Cambiá `mavre-tool-guard` por el nombre de la skill que quieras. También podés copiar la carpeta a mano:
 
 ```bash
-git clone https://github.com/FacundoMaco/mavreskills.git /tmp/mavreskills \
-  && cp -r /tmp/mavreskills/skills/* ~/.claude/skills/
+cp -r skills/<nombre> ~/.claude/skills/<nombre>
 ```
 
 ## Estado y tracción
