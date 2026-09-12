@@ -2,9 +2,6 @@
   "skills": {
     "mavre-tool-guard": {
       "enabled": true,
-      "source": "scout",
-      "fuente_scout": "producthunt",
-      "patron_origen": "Harden / Agent Integrity Foundation",
       "launched": "2026-09-12",
       "traction": {
         "stars": 0,
@@ -14,9 +11,6 @@
     },
     "mavre-mcp-lazy-cli": {
       "enabled": true,
-      "source": "scout",
-      "fuente_scout": "reddit",
-      "patron_origen": "mcp2cli",
       "launched": "2026-09-12",
       "traction": {
         "stars": 0,
@@ -26,9 +20,6 @@
     },
     "mavre-tool-router": {
       "enabled": true,
-      "source": "scout",
-      "fuente_scout": "producthunt",
-      "patron_origen": "Monid (adaptado a catálogo open source, sin billing)",
       "launched": "2026-09-12",
       "traction": {
         "stars": 0,

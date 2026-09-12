@@ -5,7 +5,7 @@ description: Router de herramientas open source/gratuitas por tarea. Cuando el a
 
 # mavre-tool-router
 
-Origen: patrón detectado por Scout (Monid, Product Hunt Sep 2 2026, "OpenRouter for agent tools"). El dolor real, adaptado: elegir e integrar una herramienta externa para cada tarea nueva (scraping, enrichment, browser, notify) es fricción repetida — pero acá se prioriza siempre la opción **open source o self-hosted** por sobre servicios pagos con vendor lock-in.
+Elegir e integrar una herramienta externa para cada tarea nueva (scraping, enrichment, browser, notify) es fricción repetida — acá se prioriza siempre la opción **open source o self-hosted** por sobre servicios pagos con vendor lock-in.
 
 ## Catálogo starter
 

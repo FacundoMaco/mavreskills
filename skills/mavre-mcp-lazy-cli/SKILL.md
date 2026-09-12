@@ -5,7 +5,7 @@ description: Evita cargar todos los schemas de un MCP server, OpenAPI o GraphQL 
 
 # mavre-mcp-lazy-cli
 
-Origen: patrón detectado por Scout (mcp2cli, 2391★ en GitHub, threads activos en r/ClaudeCode, r/mcp, r/Python — Sep 2026). El dolor real: MCP servers grandes inyectan cientos de schemas por turno, cuando el agente solo necesita 1-2 tools por tarea.
+MCP servers grandes inyectan cientos de schemas por turno, cuando el agente solo necesita 1-2 tools por tarea. Esta skill evita ese desperdicio.
 
 ## Cuándo usar
 

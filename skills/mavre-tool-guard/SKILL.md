@@ -5,7 +5,7 @@ description: Gate de política pre-ejecución para tool/skill/MCP calls de un ag
 
 # mavre-tool-guard
 
-Origen: patrón detectado por Scout (Harden / Agent Integrity Foundation, Product Hunt Sep 9 2026). El dolor real: developers abandonan skills de terceros porque corren `npx` u otros comandos en su repo sin revisión, y "aprobar cada acción a mano" cansa.
+Muchos developers abandonan skills de terceros porque corren `npx` u otros comandos en su repo sin revisión, y "aprobar cada acción a mano" cansa. Esta skill resuelve eso.
 
 ## Qué hace
 
