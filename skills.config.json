@@ -1,0 +1,14 @@
+{
+  "skills": {
+    "mavre-example-skill": {
+      "enabled": true,
+      "source": "scout",
+      "launched": "2026-09-12",
+      "traction": {
+        "stars": 0,
+        "mentions": 0,
+        "installs": 0
+      }
+    }
+  }
+}
