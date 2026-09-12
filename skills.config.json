@@ -23,6 +23,18 @@
         "mentions": 0,
         "installs": 0
       }
+    },
+    "mavre-tool-router": {
+      "enabled": true,
+      "source": "scout",
+      "fuente_scout": "producthunt",
+      "patron_origen": "Monid (adaptado a catálogo open source, sin billing)",
+      "launched": "2026-09-12",
+      "traction": {
+        "stars": 0,
+        "mentions": 0,
+        "installs": 0
+      }
     }
   }
 }
